@@ -66,7 +66,7 @@ O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no dir
 
 ### Resultado:
 
-<img src=".github/demo.gif" height="400">
+<img src="https://raw.githubusercontent.com/rocketseat-education/bootcamp-gostack-desafio-07/master/.github/demo.gif" height="400" />
 
 ---
 
